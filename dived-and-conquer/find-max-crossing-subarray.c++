@@ -7,7 +7,8 @@
 using namespace std;
 void find_max_cross_sub_array(){
     // we init the array
-    int array[] = {13,-3,-25,20,-3,-16,-23,18,20,-7,12,-5,-22,15,-4,7};
+    // int array[] = {13,-3,-25,20,-3,-16,-23,18,20,-7,12,-5,-22,15,-4,7};
+    int array[] ={2,3,-2,4};
     // we are supposed to use minus inf , but we dont hace this function in c++ so we are going to use 
     // a really small number
 
