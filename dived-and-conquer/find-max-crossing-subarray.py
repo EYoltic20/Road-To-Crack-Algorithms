@@ -6,7 +6,7 @@ def main():
     
     sum = 0
     maxl = 0
-    left_sum = -inf
+    left_sums = -inf
     array_size = len(array)
     mid = array_size//2
     for i in range(mid , 0,-1):
