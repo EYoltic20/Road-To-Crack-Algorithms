@@ -3,6 +3,7 @@
         "*.go": "go",
         "vector": "cpp",
         "iosfwd": "cpp",
-        "iterator": "cpp"
+        "iterator": "cpp",
+        "string": "cpp"
     }
 }
